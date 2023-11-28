@@ -31,19 +31,43 @@ The workspace contains two folders where:
 
 ## Detailed Overview
 ### Profile
+- Allow user to modify and save the profile.
+### Edit Profile
+- Admin can edit the profile for user.
 ### Academic Record
+- Student can view their academic record and cGPA.
+- It also have search and filter function to check the subject grade.
 ### Course Schedule
+- Student time table
 ### Study Materrials
+- Allow student to view the materrials of courses.
+- Allow teacher to add meterrials of courses.
+- Allow admin to add and delete meterrials.
 ### Submit Assignment
-- Course Enrollment
-- Discussion Area
-- Contact
-- Apply Scholarship
-- Grading System
-- Student Inbox
-- Course Manage
-- Grading Assignment
-- Online Class
-- Curriculum Planning
-- Liaison
-- Generate Report
+- Student submit the assignment way.
+### Course Enrollment
+- Student can add course to enroll.
+### Discussion Area
+- All student can be discussion in this area.
+### Contact
+- Student Can contact the admin or teacher.
+### Apply Scholarship
+- Student apply the scholarship way.
+### Grading System
+- Teacher can grade the student grade of the course.
+### Student Inbox
+- Teacher will received the sutdnet inbox.
+- Admin will received the sutdnet inbox.
+### Course Manage
+- Teacher can add course and delete course.
+### Grading Assignment
+- Teacher can grading student assignment.
+- Admin can modify teacher grade.
+### Online Class
+- Teache and admin can open the online class for student.
+### Curriculum Planning
+- Admin can curriclum planning the course of the program and edit.
+### Liaison
+- Admin can connact the other department of the school.
+### Generate Report
+- Adnub can generate the report of the student in pdf file.
