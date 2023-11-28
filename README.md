@@ -19,14 +19,14 @@ The workspace contains two folders where:
 - 8.Login the system.
 
 ## Login
-student username: student
-student password: 123456
+- student username: student
+- student password: 123456
 
-teacher username: teacher
-teacher password: 123456
+- teacher username: teacher
+- teacher password: 123456
 
-admin username: admin
-admin password: 123456
+- admin username: admin
+- admin password: 123456
 
 ## Detailed Overview
 
