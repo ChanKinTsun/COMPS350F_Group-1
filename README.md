@@ -16,7 +16,8 @@ The workspace contains two folders where:
 - 5.In Visual Studio Code -> Open Folder -> select the folder of the unzip project.
 - 6.Go to the file "COMPS350F" -> "Group project" -> "src" file.
 - 7.Run 'Login.java'. (In Vs code lupper left corner "Run Java" button)
-- 8.Login the system.
+- 8.Enter the username and password. (In the below)
+- 9.Login the system.
 
 ## Login
 - student username: student
@@ -29,4 +30,20 @@ The workspace contains two folders where:
 - admin password: 123456
 
 ## Detailed Overview
-
+### Profile
+### Academic Record
+### Course Schedule
+### Study Materrials
+### Submit Assignment
+- Course Enrollment
+- Discussion Area
+- Contact
+- Apply Scholarship
+- Grading System
+- Student Inbox
+- Course Manage
+- Grading Assignment
+- Online Class
+- Curriculum Planning
+- Liaison
+- Generate Report
